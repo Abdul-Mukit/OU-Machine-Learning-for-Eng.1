@@ -1,12 +1,12 @@
 # OU-Machine-Learning-for-Eng.1  
+The course is taught by Dr. Greg MacDonald at University of Oklahoma.  
 This repository is mainly for reporting initial studies on data wrangling using python.
-The course is taught by Dr. 
-
+ 
 #### Getting Started:
 * Environment/IDE: [Anaconda](https://www.anaconda.com/download/)  
 * Python for beginners: [Python for Data Science](https://www.datacamp.com/)  
 
-#### Pandas
+#### Pandas-Python Data Wrangling
 * Pandas CookBook (best in my opinion) [GitHub](https://github.com/jvns/pandas-cookbook)  
 This has good practice option. You don't have to install anything to start working!! 
 * Pandas Official Documentation: [link](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) (Has a Missing Data section)
