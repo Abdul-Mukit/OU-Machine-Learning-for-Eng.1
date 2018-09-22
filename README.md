@@ -1,5 +1,5 @@
 # OU-Machine-Learning-for-Eng.1  
-The course is taught by [Dr. Greg MacDonald](https://www.linkedin.com/in/gregory-macdonald-718b4a88) at University of Oklahoma. 
+The course is taught by [Dr. Gregory MacDonald](https://www.linkedin.com/in/gregory-macdonald-718b4a88) at University of Oklahoma. 
 This repository is mainly for reporting initial studies on data wrangling using python.
  
 #### Getting Started:
