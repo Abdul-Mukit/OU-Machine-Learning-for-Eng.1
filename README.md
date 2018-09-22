@@ -8,7 +8,7 @@ This repository is mainly for reporting initial studies on data wrangling using 
 
 #### Pandas-Python Data Wrangling
 * Pandas CookBook (best in my opinion) [GitHub](https://github.com/jvns/pandas-cookbook)  
-This has good practice option. You don't have to install anything to start working!! 
+This has good practice option. **You don't have to install anything to start working!!** 
 * Pandas Official Documentation: [link](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) (Has a Missing Data section)
 * Data wrangling [Cheat Sheet](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)  
 * Data wrangling [pdf summary](https://www.cs.tufts.edu/comp/150VAN/demos/DataWrangling.pdf)  
