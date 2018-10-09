@@ -20,6 +20,9 @@ Introduction to Data Mining [course link](https://www-users.cs.umn.edu/~kumar001
 Python [examples](http://www.cse.msu.edu/~ptan/dmbook/software/)  
 
 #### R
+Installing R in Linux  
+This [link](https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/) worked fine for me.  
+
 Installing rattle in linux  
 Use this if you get the error rattle not available for this version of R-studio. [link](https://stackoverflow.com/questions/25599943/unable-to-install-packages-in-latest-version-of-rstudio-and-r-version-3-1-1)  
 
